@@ -33,7 +33,7 @@ gem 'refinerycms', :git => 'git://github.com/refinery/refinerycms.git', :branch 
 
 gem 'spree-refinerycms-authentication', :git => 'git://github.com/adrianmacneil/spree-refinery-authentication.git'
 
-
+gem 'fog'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
